@@ -1,0 +1,5 @@
+tensorflow
+transformers[tf-cpu]
+google-cloud-storage
+pickle-mixin
+gunicorn
